@@ -1,5 +1,5 @@
 ---
-title: This is a title
+title: This is a local change
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
