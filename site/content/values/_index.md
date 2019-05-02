@@ -1,5 +1,5 @@
 ---
-title: "Values"
+title: "Values hi"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
@@ -42,4 +42,9 @@ values:
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
     imageUrl: "/img/about-reinvest-profits.jpg"
+  - label: "Birthdate"
+    name: "birthdate"
+    widget: "date"
+    default: ""
+    format: "MMM Do YY"
 ---
