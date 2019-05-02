@@ -1,6 +1,7 @@
 ---
 title: Values test
 image: /img/about-jumbotron.jpg
+date: 2017-03-02
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
@@ -9,6 +10,8 @@ values:
       wild form, and traditionally was grown commercially under other trees that
       provided shade. The forest-like structure of shade coffee farms provides
       habitat for a great number of migratory and resident species.
+    birthday: 2019-05-03
+    date: 2019-05-03
   - heading: Single origin
     imageUrl: /img/about-single-origin.jpg
     text: >
@@ -16,6 +19,7 @@ values:
       origin. Sometimes, this is a single farm or a specific collection of beans
       from a single country. The name of the coffee is then usually the place it
       was grown to whatever degree available.
+    birthday: 2018-05-02
   - heading: Sustainable farming
     imageUrl: /img/about-sustainable-farming.jpg
     text: >
@@ -39,9 +43,4 @@ values:
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
     imageUrl: "/img/about-reinvest-profits.jpg"
-  - label: "Birthdate"
-    name: "birthdate"
-    widget: "date"
-    default: ""
-    format: "MMM Do YY"
 ---
