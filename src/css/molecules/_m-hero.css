@@ -1,17 +1,17 @@
 .m-hero {
   position: relative;
   width: 100%;
-  height: 100vh;
 }
 
 .m-hero__heading {
   width: 100%;
   padding-bottom: 50px;
+  margin-bottom: 100px;
   border-bottom: 1px solid var(--colorSeparator);
 }
 
 .m-hero__title {
-  padding-top: 200px;
+  padding-top: 250px;
   font-size: 100px;
   font-family: var(--fontFamilyTitle);
 }
@@ -28,7 +28,7 @@
   top: 0;
   left: 0;
   width: 25%;
-  height: 100%;
+  height: 100vh;
   background-color: var(--colorText);
 }
 
