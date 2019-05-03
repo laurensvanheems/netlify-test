@@ -1,7 +1,8 @@
 ---
-title: This is a local change
-subtitle: Support sustainable farming while enjoying a cup
+title: Eric Mahl
+subtitle: Conductor
 image: /img/ocean-life.jpg
+image_description: Eric Mahl conducting
 blurb:
   heading: Why Kaldi?
   text: >-
@@ -24,4 +25,3 @@ values:
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
-
