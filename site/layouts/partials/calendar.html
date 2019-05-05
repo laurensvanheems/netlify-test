@@ -1,0 +1,9 @@
+<section class="m-calendar">
+	<h2>Upcoming events</h2>
+
+	{{ range first 6 (where .Data.Pages "Type" "event") }}
+		<div class="m-calendar__item">
+			{{ .Render "li" }}
+		</div>
+	{{ end }}
+</section>

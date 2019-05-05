@@ -1,13 +1,12 @@
 <section class="m-hero">
-  <div class="wrapper">
-    <div class="m-hero__heading">
-      <h1 class="m-hero__title">{{.title}}</h1>
-      {{ if .subtitle }}
-        <h2 class="m-hero__subtitle">{{.subtitle}}</h2>
-      {{ end }}
-    </div>
+  <div class="m-hero__heading">
+    <h1 class="m-hero__title">{{.title}}</h1>
+    {{ if .subtitle }}
+      <h2 class="m-hero__subtitle">{{.subtitle}}</h2>
+    {{ end }}
   </div>
-  <figure class="m-hero__background">
-    <img src="{{.imageUrl}}" alt="{{.imageDescription}}">
-  </figure>
 </section>
+
+<figure class="m-hero__background">
+  <img src="{{.imageUrl}}" alt="{{.imageDescription}}">
+</figure>

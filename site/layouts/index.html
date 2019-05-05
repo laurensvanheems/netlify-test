@@ -1,12 +1,15 @@
 {{ define "main" }}
 
-{{ partial "hero" (dict "imageUrl" .Params.image "imageDescription" .Params.image_description "title" .Title "subtitle" .Params.subtitle) }}
+<div class="wrapper">
+  {{ partial "hero" (dict "imageUrl" .Params.image "imageDescription" .Params.image_description "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.biography}}
+  {{ partial "calendar" . }}
+
+  {{ partial "short-text" .Params.biography}}
+</div>
 
 <!--
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
-{{ partial "blog" . }} -->
+ -->
 
 {{ end }}
