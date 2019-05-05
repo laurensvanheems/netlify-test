@@ -1,6 +1,7 @@
 ---
 title: Test title
 date: 2017-01-04T15:04:10.000Z
+location: '{"type":"Point","coordinates":[-73.9807543,40.7298861]}'
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual
