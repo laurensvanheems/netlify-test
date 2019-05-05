@@ -1,0 +1,37 @@
+.a-event {
+  position: relative;
+  padding: 40px 0 40px 120px;
+  border-bottom: 1px solid var(--colorSeparator);
+}
+
+.a-event__datetag {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  width: 90px;
+  height: 90px;
+  color: var(--colorBackground);
+  background: var(--colorText);
+  text-align: center;
+}
+
+.a-event__date__day {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 6px;
+  font-size: 50px;
+  font-family: var(--fontFamilyTitle);
+}
+
+.a-event__date__month {
+  font-size: 14px;
+}
+
+.a-event__title {
+  font-size: 24px;
+  padding-bottom: 15px;
+}
+
+.a-event__date {
+  font-size: 14px;
+}

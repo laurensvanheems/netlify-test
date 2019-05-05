@@ -1,7 +1,8 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Shostakovich Symphony No. 5
+date: 2019-06-02T16:00:00.000Z
+location: Visual & Performing Arts Center, 43 Lake Ave Ext, Danbury, CT 06811, USA
+description: The Western Connecticut Youth Orchestra plays Shostakovich's monumental fifth symphony and the beautiful Western CT University Performing Arts Center
 image: /img/blog-flavor_wheel.jpg
 ---
 

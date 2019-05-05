@@ -11,6 +11,7 @@
 @import './global/_general-styles';
 
 /* Atoms */
+@import './atoms/_a-event';
 
 /* Molecules */
 @import './molecules/_m-footer';

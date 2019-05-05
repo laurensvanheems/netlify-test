@@ -1,11 +1,9 @@
 ---
-title: Test title
-date: 2017-01-04T15:04:10.000Z
-location: '{"type":"Point","coordinates":[-73.9807543,40.7298861]}'
+title: Philharmonia at Symphony Space
+date: 2019-05-05T17:00:10.000Z
+location: Peter Jay Sharp Theatre at Symphony Spac, Upper Level, 2537 Broadway, New York, NY 10025, USA
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  The Philharmonia Orchestra plays Stravinsky, Berlioz and Sibelius at Symphony Space!
 image: /img/blog-chemex.jpg
 ---
 

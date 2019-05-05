@@ -1,6 +1,7 @@
 ---
 title: "Test Post"
 date: 2019-12-17T15:04:10.000Z
+location: Peter Jay Sharp Theatre at Symphony Spac, Upper Level, 2537 Broadway, New York, NY 10025, USA
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 image: /img/blog-flavor_wheel.jpg
 ---
