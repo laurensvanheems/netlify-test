@@ -11,12 +11,12 @@
 	--black: rgba(43, 37, 35, 1);
 
 
-  --colorBackground: #F6F4EF; /*f4f0e9*/
-  --colorBackgroundDark: #673418;
+  --colorBackground: #0E0E0E; /*f4f0e9*/
+  --colorBackgroundDark: #ffffff;
 
-  --colorText: #3E3E3E;
-	--colorTextContrast: #686868;
-  --colorTextLight: #ffffff;
+  --colorText: #ffffff;
+	--colorTextContrast: #707070;
+  --colorTextLight: #000000;
 
-	--colorSeparator: #D9D9D9;
+	--colorSeparator: #222222;
 }
