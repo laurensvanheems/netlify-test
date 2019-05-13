@@ -14,6 +14,7 @@
 @import './atoms/_a-event';
 
 /* Molecules */
+@import './molecules/_m-calendar';
 @import './molecules/_m-footer';
 @import './molecules/_m-hero';
 @import './molecules/_m-nav';

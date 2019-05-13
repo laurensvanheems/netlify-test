@@ -1,12 +1,10 @@
 {{ define "main" }}
 
-<div class="wrapper">
-  {{ partial "hero" (dict "imageUrl" .Params.image "imageDescription" .Params.image_description "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "hero" (dict "imageUrl" .Params.image "imageDescription" .Params.image_description "title" .Title "subtitle" .Params.subtitle) }}
 
-  {{ partial "calendar" . }}
-<!-- 
+{{ partial "calendar" . }}
+<!--
   {{ partial "short-text" .Params.biography}} -->
-</div>
 
 <!--
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}

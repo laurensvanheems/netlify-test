@@ -1,6 +1,6 @@
 ---
 title: Philharmonia Season Finale
-date: 2019-05-15T11:00:00.862Z
+date: 2019-05-07T11:00:00.862Z
 location: St. Marks Church-In-The-Bowery, 131 E 10th St, New York, NY 10003, USA
 description: the Philharmonia at Third Street performs their last concert of the year, with Mendelssohn and Schubert
 image: /img/about-sustainable-farming.jpg

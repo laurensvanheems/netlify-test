@@ -1,17 +1,19 @@
 .a-event {
   position: relative;
-  padding: 40px 0 40px 120px;
-  border-bottom: 1px solid var(--colorSeparator);
+  display: block;
+  padding: 40px 0 40px 60px;
+}
+
+.a-event:hover {
+  color: var(--colorTextHover);
 }
 
 .a-event__datetag {
   position: absolute;
   top: 42px;
   left: 0;
-  width: 90px;
-  height: 90px;
-  color: var(--colorBackground);
-  background: var(--colorText);
+  width: 45px;
+  height: 45px;
   text-align: center;
 }
 
@@ -19,19 +21,22 @@
   display: inline-block;
   width: 100%;
   margin-bottom: 6px;
-  font-size: 50px;
+  font-size: 18px;
   font-family: var(--fontFamilyTitle);
 }
 
 .a-event__date__month {
-  font-size: 14px;
+  font-size: 11px;
 }
 
 .a-event__title {
-  font-size: 24px;
+  font-size: 18px;
+  line-height: 26px;
   padding-bottom: 15px;
 }
 
 .a-event__date {
-  font-size: 14px;
+  display: inline-block;
+  font-size: 12px;
+  padding-bottom: 15px;
 }

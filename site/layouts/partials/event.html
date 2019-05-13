@@ -1,10 +1,8 @@
-<div class="a-event">
+<a href="{{ .Permalink }}" class="a-event">
 	<span class="a-event__datetag">
 		<span class="a-event__date__day">{{ .Date.Format "2" }}</span>
 		<span class="a-event__date__month">{{ .Date.Format "Jan" }}</span>
 	</span>
 	<h2 class="a-event__title">{{ .Title }}</h2>
 	<span class="a-event__date">{{ .Date.Format "January 2nd 2006, 15:04" }}</span>
-	<p class="a-event__body">{{ .Description }}</p>
-	<a href="{{ .Permalink }}" class="a-event__link">Read More</a>
-</div>
+</a>

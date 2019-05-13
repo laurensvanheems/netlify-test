@@ -1,0 +1,24 @@
+.m-calendar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  padding-left: 100px;
+}
+
+.m-calendar__item {
+  width: 250px;
+  padding-right: 30px;
+}
+
+.m-calendar__link {
+  position: absolute;
+  right: -70px;
+  top: 40px;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.m-calendar__link:hover {
+  color: var(--colorTextHover);
+}

@@ -1,25 +1,33 @@
 .m-hero {
-  position: relative;
+  position: absolute;
   width: 100%;
+  height: 100vh;
 }
 
 .m-hero__heading {
+  position: relative;
   width: 100%;
-  padding-bottom: 50px;
-  border-bottom: 1px solid var(--colorSeparator);
+  padding-left: 100px;
+  z-index: 2;
 }
 
 .m-hero__title {
   padding-top: 34vh;
   font-size: 100px;
   font-family: var(--fontFamilyTitle);
+  font-weight: 200;
+  text-transform: uppercase;
+  color: #CF9451;
 }
 
 .m-hero__subtitle {
   padding-top: 20px;
-  color: var(--colorTextContrast);
+  color: var(--colorText);
   font-size: 22px;
+  line-height: 32px;
   font-weight: 300;
+  max-width: 600px;
+  /* color: #73512A; */
 }
 
 .m-hero__background {
@@ -33,5 +41,4 @@
 
 .m-hero__background img {
   width: 100%;
-  height: 100%;
 }

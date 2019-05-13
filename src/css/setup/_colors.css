@@ -11,10 +11,11 @@
 	--black: rgba(43, 37, 35, 1);
 
 
-  --colorBackground: #0E0E0E; /*f4f0e9*/
+  --colorBackground: #000000; /*f4f0e9*/
   --colorBackgroundDark: #ffffff;
 
-  --colorText: #ffffff;
+  --colorText: #B8B0A8;
+	--colorTextHover: #ffffff;
 	--colorTextContrast: #707070;
   --colorTextLight: #000000;
 
