@@ -1,8 +1,6 @@
 ---
 title: Eric Mahl
-subtitle: >-
-  Currently, Mr. Mahl is the Music Director of the Western Connecticut Youth
-  Orchestra
+subtitle: 'Currently, Mr. Mahl is the Music Director of the Western Connecticut'
 image: /img/img_0019.jpg
 image_description: Eric Mahl conducting
 biography:
